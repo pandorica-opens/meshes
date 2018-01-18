@@ -10,7 +10,7 @@
 </head>
 <Scene>
         <Shape DEF="shape0"><Appearance>
-<Material diffuseColor='0.217552 0.451079 0.399313' shininess='0.9' specularColor='1 1 1' transparency='0'>
+<Material diffuseColor='0.603898 0.711887 0.651743' shininess='0.9' specularColor='1 1 1' transparency='0'>
 </Material>
 </Appearance>
 <TriangleSet solid='false'>
